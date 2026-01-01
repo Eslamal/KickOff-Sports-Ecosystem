@@ -67,7 +67,7 @@ A comprehensive ERP-style dashboard for managing sports facilities and tournamen
 
 ### 📸 Admin Interface Showcase
 | :---: | :---: | :---: |
-| <img src="screenshots/manager_grid.png" width="220"> | <img src="managerApp/photo_2026-01-01_11-51-34.jpg" width="220"> | <img src="managerApp/photo_2026-01-01_11-51-37.jpg" width="220"> 
+| <img src="screenshots/manager_grid.png" width="220"> | <img src="managerApp/photo_2026-01-01_11-51-34.jpg" width="220"> | <img src="managerApp/photo_2026-01-01_11-51-37.jpg" width="220"> |
 
 ---
 
