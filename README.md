@@ -49,7 +49,7 @@ The Player app focuses on friction-less booking and social community building.
 ### 📸 User Interface Showcase
 | Discovery & Home | Booking Experience | Team Communication |
 | :---: | :---: | :---: |
-| <img src="screenshots/user_home.png" width="220"> | <img src="screenshots/user_booking.png" width="220"> | <img src="screenshots/user_chat.png" width="220"> |
+| <img src="managerApp/photo_2026-01-01_11-51-32.jpg" width="220"> | <img src="screenshots/user_booking.png" width="220"> | <img src="screenshots/user_chat.png" width="220"> |
 
 ---
 
