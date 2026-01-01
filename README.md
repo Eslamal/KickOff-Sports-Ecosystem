@@ -66,8 +66,16 @@ A comprehensive ERP-style dashboard for managing sports facilities and tournamen
 * **Financial Integrity:** Real-time revenue tracking and withdrawal management.
 
 ### 📸 Admin Interface Showcase
-| :---: | :---: | :---: |
-| <img src="managerApp/photo_2026-01-01_11-51-32.jpg" width="220"> | <img src="managerApp/photo_2026-01-01_11-51-34.jpg" width="220"> | <img src="managerApp/photo_2026-01-01_11-51-37.jpg" width="220"> |
+
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="managerApp/photo_2026-01-01_11-51-32.jpg" width="180"> | <img src="managerApp/photo_2026-01-01_11-51-34.jpg" width="180"> | <img src="managerApp/photo_2026-01-01_11-51-37.jpg" width="180"> | <img src="managerApp/photo_1.jpg" width="180"> | <img src="managerApp/photo_2.jpg" width="180"> |
+| <img src="managerApp/photo_3.jpg" width="180"> | <img src="managerApp/photo_4.jpg" width="180"> | <img src="managerApp/photo_5.jpg" width="180"> | <img src="managerApp/photo_6.jpg" width="180"> | <img src="managerApp/photo_7.jpg" width="180"> |
+| <img src="managerApp/photo_8.jpg" width="180"> | <img src="managerApp/photo_9.jpg" width="180"> | <img src="managerApp/photo_10.jpg" width="180"> | <img src="managerApp/photo_11.jpg" width="180"> | <img src="managerApp/photo_12.jpg" width="180"> |
+
+| | |
+| :---: | :---: |
+| <img src="managerApp/photo_13.jpg" width="180"> | <img src="managerApp/photo_14.jpg" width="180"> |
 
 ---
 
