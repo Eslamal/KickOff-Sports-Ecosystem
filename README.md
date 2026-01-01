@@ -66,9 +66,8 @@ A comprehensive ERP-style dashboard for managing sports facilities and tournamen
 * **Financial Integrity:** Real-time revenue tracking and withdrawal management.
 
 ### 📸 Admin Interface Showcase
-| The Scheduling Grid | Tournament Brackets | Revenue Analytics |
-| :---: | :---: | :---: |
-| <img src="screenshots/manager_grid.png" width="220"> | <img src="screenshots/manager_bracket.png" width="220"> | <img src="screenshots/manager_dashboard.png" width="220"> |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="screenshots/manager_grid.png" width="220"> | <img src="managerApp/photo_2026-01-01_11-51-34.jpg" width="220"> | <img src="managerApp/photo_2026-01-01_11-51-37.jpg" width="220"> | <img src="managerApp/photo_2026-01-01_11-51-39.jpg" width="220"> |  <img src="managerApp/photo_2026-01-01_11-51-41.jpg" width="220"> | 
 
 ---
 
