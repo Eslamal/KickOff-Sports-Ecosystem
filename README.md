@@ -46,10 +46,18 @@ The Player app focuses on friction-less booking and social community building.
 * **Leaderboard System:** Global ranking based on player activity and performance points.
 * **Atomic Wallet:** Secure balance management with automated refund logic.
 
-### 📸 User Interface Showcase
-| Discovery & Home | Booking Experience | Team Communication |
-| :---: | :---: | :---: |
-| <img src="managerApp/photo_2026-01-01_11-51-32.jpg" width="220"> | <img src="screenshots/user_booking.png" width="220"> | <img src="screenshots/user_chat.png" width="220"> |
+### 📸 Admin Interface Showcase
+
+| | | | | |
+| :---: | :---: | :---: | :---: | :---: |
+| <img src="UserApp/photo_2026-01-01_13-22-18.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-22.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-23.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-25.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-26.jpg" width="160"> |
+| <img src="UserApp/photo_2026-01-01_13-22-28.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-30.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-31.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-33.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-34.jpg" width="160"> |
+| <img src="UserApp/photo_2026-01-01_13-22-35.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-37.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-38.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-40.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-41.jpg" width="160"> |
+| <img src="UserApp/photo_2026-01-01_13-22-43.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-44.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-46.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-47.jpg" width="160"> | <img src="UserApp/photo_2026-01-01_13-22-49.jpg" width="160"> |
+
+| |
+| :---: |
+| <img src="UserApp/photo_2026-01-01_13-22-50.jpg" width="160"> |
 
 ---
 
